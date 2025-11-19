@@ -1,0 +1,3 @@
+-- Step 1: Start with a question
+-- Simple Question:
+-- How many rows are in the Customers table?

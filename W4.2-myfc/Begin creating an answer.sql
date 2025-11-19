@@ -1,0 +1,4 @@
+-- Step 2: Begin creating an answer
+-- To answer this question, I need to count all rows in the Customers table.
+-- Sub-Answer Step 1: Select the Customers table.
+-- Sub-Answer Step 2: Count the total rows in that table.
